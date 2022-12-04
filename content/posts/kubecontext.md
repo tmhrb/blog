@@ -6,7 +6,6 @@ draft: true
 
 ## Introduction
 
-some text
+test hugo on github pages
 
 
-### next
